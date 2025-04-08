@@ -41,7 +41,7 @@ The data reflect the number of vehicles, containers, passengers, or pedestrians 
 
 
 ### VISUALIZATION ON TABLEAU
-![image](Analysis-on-Tableau.png)
+![image](Dashboard.png)
 
 
 **[Tabeau Visualization Link](https://public.tableau.com/views/SuperstoreSalesPerformanceDashboard_17438202256240/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
