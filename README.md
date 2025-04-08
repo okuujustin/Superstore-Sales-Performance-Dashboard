@@ -1,12 +1,7 @@
-# Superstore-Sales-Performance-Dashboard
-
-
-
-
-# US BORDER CROSSING ANALYSIS
+# SUPERSTORE SALES PERFORMANCE ANALYSIS
 
 ## BUSINESS TASK STATEMENT
-**To Evaluate the inbound crossings at the U.S.-Canada and the U.S.-Mexico Border at the Port Level.** 
+**Analyzing the sales rate and revenue generation of the superstores across states in the United States** 
 
 
 ## EXECUTIVE SUMMARY
