@@ -21,7 +21,7 @@ The data reflect the number of vehicles, containers, passengers, or pedestrians 
 3.  Check the media to which people cross borders 
 
 ### DATA SOURCE
-**[US Border Crossing Dataset Link](https://catalog.data.gov/dataset/border-crossing-entry-data-683ae)**
+**[SuperStore Sales Raw Dataset](SuperStore-Sales-DataSet.xlsx)**
 
 
 ## ANALYSIS PROCEDURE
