@@ -22,7 +22,7 @@ This Project Showcases
 
 ## ANALYSIS PROCEDURE
 
-### DATA PREPARATION, CLEANING AND EXPLORATORY DATA ANALYSIS (EDA) USING EXCEL AND POWER QUERY
+### DATA PREPARATION, CLEANING, AND EXPLORATORY DATA ANALYSIS (EDA) USING EXCEL AND POWER QUERY
 1. First, I checked the dataset to know the relevant columns for this analysis
 2. I checked for null or blank rows. I had non
 3. I checked and removed duplicate values
